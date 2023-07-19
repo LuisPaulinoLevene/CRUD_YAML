@@ -1,0 +1,17 @@
+computadores:
+- Ano_de_fabrico: '2022'
+  ID: '86741207'
+  Marca: del
+  Modelo: preta
+- Ano_de_fabrico: '2012'
+  ID: '86271905'
+  Marca: hp
+  Modelo: azul
+- Ano_de_fabrico: '2020'
+  ID: '861883466'
+  Marca: laptop
+  Modelo: preta
+- Ano_de_fabrico: '1999'
+  ID: '86108392'
+  Marca: pp
+  Modelo: az
